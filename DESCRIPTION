@@ -1,8 +1,8 @@
 Package: tdigest
 Type: Package
 Title: Wicked Fast, Accurate Quantiles Using t-Digests
-Version: 0.3.0
-Date: 2019-07-25
+Version: 0.4.1
+Date: 2022-10-03
 Authors@R: c(
     person("Bob", "Rudis", email = "bob@rud.is", role = c("aut", "cre"), 
            comment = c(ORCID = "0000-0001-5670-2640")),
@@ -22,18 +22,18 @@ Description: The t-Digest construction algorithm, by
     by t-Digests can be orders of magnitude more accurate than those produced 
     by previous digest algorithms. Methods are provided to create and update 
     t-Digests and retrieve quantiles from the accumulated distributions.
-URL: https://gitlab.com/hrbrmstr/tdigest
-BugReports: https://gitlab.com/hrbrmstr/tdigest/issues
+URL: https://git.sr.ht/~hrbrmstr/tdigest
+BugReports: https://todo.sr.ht/~hrbrmstr/tdigest
 Copyright: file inst/COPYRIGHTS
 Encoding: UTF-8
 License: MIT + file LICENSE
 Suggests: testthat, covr, spelling
 Depends: R (>= 3.5.0)
 Imports: magrittr, stats
-RoxygenNote: 6.1.1
+RoxygenNote: 7.2.1
 Language: en-US
 NeedsCompilation: yes
-Packaged: 2019-07-28 11:39:55 UTC; bob
+Packaged: 2022-10-04 15:27:18 UTC; hrbrmstr
 Author: Bob Rudis [aut, cre] (<https://orcid.org/0000-0001-5670-2640>),
   Ted Dunning [aut] (t-Digest algorithm;
     <https://github.com/tdunning/t-digest/>),
@@ -41,4 +41,4 @@ Author: Bob Rudis [aut, cre] (<https://orcid.org/0000-0001-5670-2640>),
     <https://github.com/ajwerner/tdigest>)
 Maintainer: Bob Rudis <bob@rud.is>
 Repository: CRAN
-Date/Publication: 2019-08-01 09:10:02 UTC
+Date/Publication: 2022-10-04 23:40:02 UTC
