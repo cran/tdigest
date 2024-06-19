@@ -1,4 +1,4 @@
-798cd69b3712d15ff43a1c37fd820ffb *DESCRIPTION
+0a8674e60a82bb33ceedbf536256f1a9 *DESCRIPTION
 24b2df0874ad5363a9abd6536f922ded *LICENSE
 0e70cd578a33062cac92cdaff565e404 *NAMESPACE
 145284ebf7c9a60d9eff9bdd41d8c7d8 *R/create.R
@@ -16,7 +16,7 @@ be80b9b66763e453862296fd7539f1e0 *man/td_value_at.Rd
 2ea5a15c08c4111ad20b58756890ed67 *man/tdigest.Rd
 9b5f05e0fa879b00198ee37b31172f12 *man/tquantile.Rd
 2d3ad7e5ab805018a5c356ffeee0680b *src/init.c
-3f80c1145cd19223906d8b1802ea9558 *src/tdigest-main.c
+efc1710ffce79a26474a2fe202b41f05 *src/tdigest-main.c
 9c484a25d5ea4ac4716f90fa835a90a0 *src/tdigest.c
 495c742240a2737730eb0d9675e17b7e *src/tdigest.h
 0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
